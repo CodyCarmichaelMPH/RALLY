@@ -14,7 +14,7 @@
 test_simple_rally.R
 
 # Documentation (optional - uncomment if you want to ignore Docs)
-# Docs/
+ Docs/
 
 # OS generated files
 .DS_Store
