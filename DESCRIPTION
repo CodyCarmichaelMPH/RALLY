@@ -1,0 +1,21 @@
+Package: rally
+Type: Package
+Title: R Copilot with Ollama
+Version: 1.0.0
+Date: 2024-12-19
+Authors@R: person("RALLY", "Developer", email = "rally@example.com", role = c("aut", "cre"))
+Description: Minimal R copilot using Ollama for code assistance and chat
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Imports:
+    shiny,
+    shinydashboard,
+    httr,
+    jsonlite,
+    shinyjs,
+    magrittr
+Suggests:
+    remotes,
+    testthat 
